@@ -1,4 +1,4 @@
-# grunt-contrib-compress v1.4.3 [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-contrib-compress.svg?branch=master)](https://travis-ci.org/gruntjs/grunt-contrib-compress) [![Build Status: Windows](https://ci.appveyor.com/api/projects/status/tiwbi1smm1j8aa5j/branch/master?svg=true)](https://ci.appveyor.com/project/gruntjs/grunt-contrib-compress/branch/master)
+# grunt-contrib-compress v1.4.4 [![Build Status: Linux](https://travis-ci.org/gruntjs/grunt-contrib-compress.svg?branch=master)](https://travis-ci.org/gruntjs/grunt-contrib-compress) [![Build Status: Windows](https://ci.appveyor.com/api/projects/status/tiwbi1smm1j8aa5j/branch/master?svg=true)](https://ci.appveyor.com/project/gruntjs/grunt-contrib-compress/branch/master)
 
 > Compress files and folders
 
@@ -281,6 +281,7 @@ compress: {
 
 ## Release History
 
+ * 2018-08-17   v1.4.4   Update iltorb to v2.4.0
  * 2017-05-20   v1.4.3   Update pretty-bytes to v4.0.2. Add option to not to create empty archive.
  * 2017-05-20   v1.4.2   Update archiver to v1.3.0.
  * 2017-01-20   v1.4.1   Make brotli support optional.
@@ -327,4 +328,4 @@ compress: {
 
 Task submitted by [Chris Talkington](http://christalkington.com/)
 
-*This file was generated on Sat May 20 2017 14:05:16.*
+*This file was generated on Fri Aug 17 2018 14:50:53.*
